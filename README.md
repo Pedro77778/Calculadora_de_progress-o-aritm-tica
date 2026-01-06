@@ -1,4 +1,3 @@
-# Calculadora_de_progressao-aritmetica
 # 🧮 Calculadora de Progressão Aritmética (P.A.)
 
 Este é um pequeno protótipo que desenvolvi em Python para calcular sequências de P.A. de forma automática!
